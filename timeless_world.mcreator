@@ -1,0 +1,67 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TimelessWorld",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "timeless_world"
+    },
+    {
+      "name": "CalibrumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calibrum_ingot"
+    },
+    {
+      "name": "Flow",
+      "type": "code",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "flow"
+    },
+    {
+      "name": "CalibrumOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calibrum_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.timeless_world.calibrum_ore": "Calibrum Ore",
+      "itemGroup.tabtimeless_world": "Timeless World",
+      "item.timeless_world.calibrum_ingot": "Calibrum Ingot"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "timeless_world",
+    "modName": "Timeless World",
+    "version": "1.0.0",
+    "author": "angel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.timelessworld",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

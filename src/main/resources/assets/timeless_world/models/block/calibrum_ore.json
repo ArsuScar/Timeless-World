@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "timeless_world:blocks/calibrumore",
+    "up": "timeless_world:blocks/calibrumore",
+    "north": "timeless_world:blocks/calibrumore",
+    "east": "timeless_world:blocks/calibrumore",
+    "south": "timeless_world:blocks/calibrumore",
+    "west": "timeless_world:blocks/calibrumore",
+    "particle": "timeless_world:blocks/calibrumore"
+  }
+}
